@@ -27,7 +27,7 @@ st.write("그 외 Youtube로 시작하는 메뉴를 선택하시면 위 프리�
 st.write("유투브 비디오는 계속 업로드 될 예정입니다. 채널을 Subscribe 하시면 업로드 될 때마다 보실 수 있습니다.")
 
 st.write("")
-st.image('./images/bighug.png', caption='BIGHUG')
+st.image('./images/bighugThumb.png', caption='BIGHUG')
 st.write("")
 st.write("")
 
